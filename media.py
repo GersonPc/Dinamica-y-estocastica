@@ -21,6 +21,7 @@ if __name__ == "__main__":
     Var = varianza(X)
     sigmaa = lambda X: math.sqrt(varianza(X))
     #sqrt significa que es una raiz cuadrada
+    print('Hola')
 
     print(f'Arrego de X = {X}')
     print(f'Media = {muu(X)}')
